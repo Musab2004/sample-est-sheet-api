@@ -1,0 +1,15 @@
+.idea
+.env
+env
+*venv
+demos
+venv
+**/__pycache__/
+**/.ipynb_checkpoints/
+.env.streamlit
+styler-v1/config.yaml
+toml
+.toml
+**/secrets.toml
+db.sqlite3
+*.pdf
